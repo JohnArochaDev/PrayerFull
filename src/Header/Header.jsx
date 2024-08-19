@@ -13,7 +13,7 @@ export default function Header() {
   return (
     <Navbar expand={expand} className="navbar-dark-grey mb-3">
       <Container fluid className="justify-content-center">
-        <Navbar.Brand href="#" className="mx-auto">PrayerFull</Navbar.Brand>
+        <Navbar.Brand href="/" className="mx-auto">PrayerFull</Navbar.Brand>
         <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
         <Navbar.Offcanvas
           id={`offcanvasNavbar-expand-${expand}`}
