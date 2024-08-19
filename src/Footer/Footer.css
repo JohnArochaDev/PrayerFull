@@ -1,0 +1,10 @@
+.footer{
+    background-color: #242424;
+    color: white;
+    position: absolute;
+    bottom: 0%;
+}
+
+.footerContent{
+    padding-top: 2vh;
+}
