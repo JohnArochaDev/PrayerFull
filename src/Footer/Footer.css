@@ -10,6 +10,7 @@
 
 .footerContent {
     padding-top: 2vh;
+    padding-bottom: 2vh;
     padding-left: -1vh;
     padding-right: -1vh;
 }
@@ -20,4 +21,9 @@
 
 .footerCol {
     padding: 0 10px; /* Adjust padding as needed */
+}
+.links {
+    color: inherit;
+    text-decoration: none;
+    font-style: normal; 
 }

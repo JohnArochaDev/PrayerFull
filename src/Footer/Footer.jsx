@@ -8,22 +8,22 @@ export default function Footer() {
             <div className="innerFooter" > 
                 <Row className="footerContent" >
                     <Col xs={6} md={2} className="footerCol">
-                        <p>© 2022 PrayerFull, Inc.</p>
+                        <a href="" className="links" >© 2022 PrayerFull, Inc.</a>
                     </Col>
                     <Col xs={6} md={2} className="footerCol">
-                        <p>Privacy</p>
+                        <a href="" className="links" >Privacy</a>
                     </Col>
                     <Col xs={6} md={2} className="footerCol">
-                        <p>Terms</p>
+                        <a href="" className="links" >Terms</a>
                     </Col>
                     <Col xs={6} md={2} className="footerCol">
-                        <p>Security</p>
+                        <a href="" className="links" >Security</a>
                     </Col>
                     <Col xs={6} md={2} className="footerCol">
-                        <p>Contact Us</p>
+                        <a href="" className="links" >Contact Us</a>
                     </Col>
                     <Col xs={6} md={2} className="footerCol">
-                        <p>Do not share my information</p>
+                        <a href="" className="links" >Do not share my information</a>
                     </Col>
                 </Row>
             </div>
