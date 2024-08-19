@@ -1,10 +1,23 @@
-.footer{
+.footer {
     background-color: #242424;
     color: white;
     position: absolute;
     bottom: 0%;
+    font-size: small;
+    display: flex;
+    justify-content: center;
 }
 
-.footerContent{
+.footerContent {
     padding-top: 2vh;
+    padding-left: -1vh;
+    padding-right: -1vh;
+}
+
+.innerFooter {
+    width: 80vw;
+}
+
+.footerCol {
+    padding: 0 10px; /* Adjust padding as needed */
 }
