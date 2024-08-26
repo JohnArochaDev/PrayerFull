@@ -1,0 +1,15 @@
+.column {
+    display: flex;
+    justify-content: center;
+}
+
+.rowe {
+    display: flex;
+    align-items: center;
+    height: 85vh;
+}
+
+.bttn {
+    height: 30vh;
+    width: 40vh;
+}
