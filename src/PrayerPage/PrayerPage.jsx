@@ -20,7 +20,7 @@ export default function PrayerPage() {
                             className="bttn"
                             onClick={() => handleButtonClick('/prayer-request')}
                         >
-                            Large button
+                            Prayer Request
                         </Button>
                     </Col>
                     <Col className="column" >
@@ -29,7 +29,7 @@ export default function PrayerPage() {
                             className="bttn" 
                             onClick={() => handleButtonClick('/prayer-feed')}
                         >
-                            Large button
+                            Prayer Feed
                         </Button>
                     </Col>
                 </Row>
